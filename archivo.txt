@@ -4,3 +4,5 @@ ln 2
 ln 3
 ln 4
 ln 5
+ln 6
+ln 7
