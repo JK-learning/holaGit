@@ -1,0 +1,6 @@
+Fichero archivo.txt
+ln 1
+ln 2
+ln 3
+ln 4
+ln 5
