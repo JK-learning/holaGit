@@ -1,4 +1,4 @@
-Archivo1.txt
+Archivo2.txt
 ln1
 ln2
 ln3
